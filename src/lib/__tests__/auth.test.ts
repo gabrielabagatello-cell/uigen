@@ -1,3 +1,4 @@
+// @vitest-environment node
 import { vi, test, expect, beforeEach, describe } from "vitest";
 import { jwtVerify } from "jose";
 
